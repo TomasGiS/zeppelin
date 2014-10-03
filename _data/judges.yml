@@ -3,10 +3,9 @@
   name: "Leo"
   surname: "Blazquez"
   company: "ReusTransport"
-  title: "CTO"
-  thumbnailUrl: none.jpg
+  title: "Android Developer"
+  thumbnailUrl: DmytroDanylyk.jpg
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+LeoBlázquez"}
-    - {name: "twitter", link: "https://twitter.com/leoblazquez"}
-    - {name: "Linked-in", link:"http://t.co/PjNYQNWFXO"}
-
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
