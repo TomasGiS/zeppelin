@@ -225,7 +225,7 @@ enableHackathon: true
 aboutHackathonTitle: "Meet our themes"
 hackathonRows:
  - {title: "Pendiente",image: "hackathon-0.png"}
- - {title: "Pendiente",image: "hackathon-0.png"}
+ - {title: "Android Wear",image: "hackathon-0.png"}
  - {title: "Pendiente",image: "hackathon-0.png"}
 
 # Hackathon Judges Block
