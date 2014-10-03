@@ -12,3 +12,17 @@
     - {name: "twitter", link: "https://twitter.com/TomasGiS"}
     - {name: "github", link: "https://github.com/TomasGiS"}
     - {name: "site", link: "http://www.tomasgis.cat/"}
+-
+    id: 1
+    name: "Jordi"
+    surname: "Rodriguez"
+    title: "Organizer"
+    thumbnailUrl: jordick.jpg
+    team: true
+    ribbon:
+        - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
+    social:
+        - {name: "google-plus", link: "https://google.com/+JordiRodriguezSoler"}
+        - {name: "twitter", link: "https://twitter.com/Jordick"}
+        - {name: "github", link: "https://github.com/Jordick"}
+        - {name: "site", link: "http://www.jordick.es/"}
