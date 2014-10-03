@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/fISuGq", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/fISuGq", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -132,9 +132,9 @@ ticketsOffers:
  -
   name: "Entrada"
   price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
+  priceCurrency: "€"
+  ticketsNumber: "0"
+  ribbon: "Free"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Entrada general", "Dummy text of the printing", "Typesetting industry"]
