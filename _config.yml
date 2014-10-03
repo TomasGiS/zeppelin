@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Reus 2014"
-email: “conferencias”@gdgtarragona.net
+email: "conferencias@gdgtarragona.net"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
@@ -130,7 +130,7 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: “Entrada”
+  name: "Entrada"
   price: "350"
   priceCurrency: "UAH"
   ticketsNumber: "150"
@@ -143,8 +143,8 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/110881000795710392242", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGTarragona”, icon: "twitter"}
- - {link: "https://facebook.com/GDGTarragona”, icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGTarragona", icon: "twitter"}
+ - {link: "https://facebook.com/GDGTarragona", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
