@@ -235,24 +235,24 @@ judgesTitle: "Judges"
 # Hackathon Prizes Block
 prizesTitle: "Prizes"
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+ - {title: "2nd Place", image: "prize-2.png", info: "Pendiente"}
  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+ - {title: "3nd Place", image: "prize-3.png", info: "Pendiente"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
+hackathonLocationName: "Foyeur"
+hackathonLocationLink: "http://www.firaReus.cat"
+hackathonStreetAddress: "Avga. de Bellisens, 20"
+hackathonAddressLocality: "Reus"
+hackathonAddressLocalityRegion: "Tarragona"
+hackathonPostalCode: "43200"
+hackathonAddressCountry: "Spain"
 hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
+hackathonStartTime: "2014-10-5T10:00"
+hackathonDoorTime: "18:00"
 hackathonEndTime: "2014-10-25T00:00"
 viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+hackathonPlaceCoordinates: "41.143097, 1.129242"
+hackathonMapCenterCoordinates: "41.143097, 1.129242"
+hackathonMapMobileCenterCoordinates: "41.143097, 1.129242"
