@@ -18,14 +18,14 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "GDG Tarragona"
 organizerAlternateName: "Google Developer Group Tarragona"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerDescription: "Comunidad de Desarrolladores Google Tarragona"
 organizerEmail: "conferencias@gdgtarragona.net"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.gdgtarragona.net/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, reus, Tarragona"
+twitterAccount: "@GDGTarragona"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -56,7 +56,7 @@ eventDate: “25 Octubre, 2014"
 typeoutTextValues: '"", "Reus", "Tarragona"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/fISuGq", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Consigue una entrada"}
 
 # About Block
@@ -105,8 +105,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "firaReus"
+venueFeatures: ["firaReus, Centro de Ferias y Convenciones", "Localizado en la Ciudad de Reus en el área Tecnopark"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -131,9 +131,9 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Entrada"
-  price: "350"
+  price: "0"
   priceCurrency: "€"
-  ticketsNumber: "0"
+  ticketsNumber: "200"
   ribbon: "Free"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
@@ -188,9 +188,9 @@ logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around firaReus"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.aena-aeropuertos.es/csee/Satellite/Aeropuerto-Reus/es/">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Hotels", information: 'Pending'}
 directionDetailsWideCards: 
  -
   title: "Questions?"
@@ -198,24 +198,24 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "Hotel Adagio"}
    - 
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "Hotel Adagio"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/110881000795710392242", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
@@ -224,29 +224,29 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+ - {title: "Pendiente"}
+ - {title: "Pendiente"}
+ - {title: "Pendiente"}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
-judgesTitle: "Judges"
+judgesTitle: "Jueces"
 
 # Hackathon Prizes Block
-prizesTitle: "Prizes"
+prizesTitle: "Premios"
 prizes:
  - {title: "2nd Place", image: "prize-2.png", info: "Pendiente"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "1nd Place", image: "prize-1.png", info: "Premio Reus Transport"}
  - {title: "3nd Place", image: "prize-3.png", info: "Pendiente"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
 hackathonLocationName: "Foyeur"
 hackathonLocationLink: "http://www.firaReus.cat"
-hackathonStreetAddress: "Avga. de Bellisens, 20"
+hackathonStreetAddress: "Avga. de Bellisens, 40"
 hackathonAddressLocality: "Reus"
 hackathonAddressLocalityRegion: "Tarragona"
-hackathonPostalCode: "43200"
+hackathonPostalCode: "43204"
 hackathonAddressCountry: "Spain"
 hackathonTimeTitle: "Hack through"
 hackathonStartTime: "2014-10-5T10:00"
