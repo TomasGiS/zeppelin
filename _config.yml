@@ -235,7 +235,7 @@ judgesTitle: "Jueces"
 # Hackathon Prizes Block
 prizesTitle: "Premios"
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Pendiente"}
+ - {title: "2nd Place", image: "prize-2.png", info: "Remotte"}
  - {title: "1nd Place", image: "prize-1.png", info: "Premio Reus Transport"}
  - {title: "3nd Place", image: "prize-3.png", info: "Pendiente"}
 
