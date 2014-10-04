@@ -224,7 +224,7 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
 hackathonRows:
- - {title: "Remotte",image: "hackathon-0.png"}
+ - {title: "Remotte",image: "hackathon-1.png"}
  - {title: "Android Wear",image: "hackathon-0.png"}
  - {title: "Pendiente",image: "hackathon-0.png"}
 
