@@ -5,5 +5,5 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "firaReus", description: "firaReus", link: "http://www.firareus.com", imageUrl: "firareus.png"}
+    - {name: "firaReus", description: "firaReus", link: "http://www.firareus.com", imageUrl: "firareus.png", width: "125px"}
     - {name: "TarracoDroid", description: "TarracoDroid", link: "http://www.tarracodroid.com", imageUrl: "tarracodroid.png"}
