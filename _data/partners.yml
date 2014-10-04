@@ -2,7 +2,7 @@
   group: "General sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "Sm4rt Cities", description: "Sm4rt Cities", link: "http://www.smart4cities.net", imageUrl: "smart4cties.png"}
+    - {name: "Sm4rt Cities", description: "Sm4rt Cities", link: "http://www.smart4cities.net", imageUrl: "smart4cities.png"}
     - {name: "Redessa", description: "Redessa", link: "http://www.redessa.cat", imageUrl: "redessa.jpg"}
 - 
   group: "With support of"
@@ -14,5 +14,5 @@
   group: "Information partners"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "Sm4rt Cities", description: "Sm4rt Cities", link: "http://www.smart4cities.net", imageUrl: "smart4cties.png"}
+    - {name: "Sm4rt Cities", description: "Sm4rt Cities", link: "http://www.smart4cities.net", imageUrl: "smart4cities.png"}
     - {name: "Redessa", description: "Redessa", link: "http://www.redessa.cat", imageUrl: "redessa.jpg"}
