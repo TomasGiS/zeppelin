@@ -9,10 +9,10 @@ title: "GDG DevFest Reus 2014"
 email: "conferencias@gdgtarragona.net"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+url: "http://gdgtarragona.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-55386227-1"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "gdgtarragona.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -161,9 +161,9 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas noticias"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfest"
 
 # Speakers List Block
 showSessions: true

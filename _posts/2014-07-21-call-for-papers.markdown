@@ -22,8 +22,8 @@ El GDG DevFest Reus 2014 gira entorno del ecosystema Android pero estamos abiert
 
 __General__
 
-* Android Continuous Integration
-* Android, Best practices
+* Android, continuous Integration
+* Android, best practices
 * Android Animations
 * Patterns in Android development
 
