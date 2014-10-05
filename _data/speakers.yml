@@ -1,15 +1,12 @@
 
 -
-    id: 1
-    name: "Jordi"
-    surname: "Rodriguez"
-    title: "Organizer"
-    thumbnailUrl: jordick.jpg
-    team: true
-    ribbon:
-        - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
-    social:
-        - {name: "google-plus", link: "https://google.com/+JordiRodriguezSoler"}
-        - {name: "twitter", link: "https://twitter.com/Jordick"}
-        - {name: "github", link: "https://github.com/Jordick"}
-        - {name: "site", link: "http://www.jordick.es/"}
+id: 3
+name: "Jordi"
+surname: "Rodriguez"
+company: "Jordick.es"
+title: ""
+bio: ""
+thumbnailUrl: jordick.jpg
+rockstar: true
+social:
+- {name: "google-plus", link: "https://plus.google.com/+JordiRodriguezSoler"}

@@ -23,7 +23,7 @@
     ribbon:
         - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
     social:
-    - {name: "google-plus", link: "https://google.com/+JordiRodriguezSoler"}
+        - {name: "google-plus", link: "https://google.com/+JordiRodriguezSoler"}
         - {name: "twitter", link: "https://twitter.com/Jordick"}
         - {name: "github", link: "https://github.com/Jordick"}
         - {name: "site", link: "http://www.jordick.es/"}
