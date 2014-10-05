@@ -1,15 +1,4 @@
--
-  id: 3
-  name: "Jordi"
-  surname: "Rodriguez"
-  company: "Jordick.es"
-  title: "Dinamizador Digital"
-  bio: ""
-  thumbnailUrl: Jordick.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JordiRodriguezSoler/"}
--
+
     id: 4
     name: "Dmytro"
     surname: "Danylyk"
