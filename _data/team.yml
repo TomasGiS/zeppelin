@@ -54,3 +54,15 @@
     - {name: "google-plus", link: "https://google.com/+ViscalabonavidaCat"}
     - {name: "twitter", link: "https://twitter.com/viscalabonavida"}
     - {name: "site", link: "http://www.viscalabonavida.cat/"}
+-
+    id: 6
+    name: "Julio"
+    surname: "Bondia"
+    title: "GDG Organizer"
+    thumbnailUrl: julioBondia.jpg
+    team: true
+    ribbon:
+    - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
+    social:
+    - {name: "google-plus", link: "https://google.com/+JulioBondía"}
+    - {name: "twitter", link: "https://twitter.com/jbondia"}
