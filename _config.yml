@@ -171,7 +171,9 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Los GDG DevFest son eventos organizados por los Google Developer Groups de todo el mundo. Tienen lugar entre los meses de septiembre y noviembre centrandose principalmente en tecnologías Google.
+
+Por primera vez, este año llega a la provincia de Tarragona el GDG DevFest Reus de la mano del GDG Tarragona. El evento tendrá lugar el sábado 25 de octubre en las instalaciones de firaReus en el Tecnoparc."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
