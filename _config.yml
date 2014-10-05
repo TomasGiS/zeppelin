@@ -163,7 +163,7 @@ footerBlocks:
 # Blog
 blogTitle: "Últimas noticias"
 blogCommentsEnabled: true
-discusShortName: "devfest"
+discusShortName: "DevFestReus"
 
 # Speakers List Block
 showSessions: true
