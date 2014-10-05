@@ -28,7 +28,7 @@ __General__
 * Patterns in Android development
 
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
+#### Please submit your proposals [here](http://goo.gl/fISuGq).
 __Deadline__ is October 15, 2014
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
