@@ -1,0 +1,46 @@
+-
+    id: 1
+    name: "Jordi"
+    surname: "Rodriguez"
+    company: "Jordick.es"
+    title: "Android Wear"
+    bio: ""
+    thumbnailUrl: jordick.jpg
+    rockstar: true
+    social:
+    - {name: "google-plus", link: "https://plus.google.com/+JordiRodriguezSoler/"}
+    - {name: "site", link: "http://www.jordick.es/"}
+-
+    id: 2
+    name: "Albert"
+    surname: "Abelló"
+    company: "Illustrum"
+    title: "Monetización de Apps"
+    bio: ""
+    thumbnailUrl: albertAbello.jpg
+    rockstar: true
+    social:
+    - {name: "google-plus", link: "https://plus.google.com/+AlbertAbello/"}
+    - {name: "site", link: "http://www.illustrum.com/"}
+-
+    id: 3
+    name: "Jordi"
+    surname: "Duch"
+    company: ""
+    title: "Gamificación"
+    bio: ""
+    thumbnailUrl: jordiDuch.png
+    rockstar: true
+    social:
+    - {name: "google-plus", link: "https://plus.google.com/101787050467842633901/"}
+-
+    id: 9
+    name: "Unknown"
+    surname: ""
+    company: ""
+    title: ""
+    bio: ""
+    thumbnailUrl: unkown_boy.png
+    rockstar: true
+    social:
+    - {name: "google-plus", link: "https://plus.google.com/"}
