@@ -1,12 +1,2 @@
 
--
-id: 3
-name: "Jordi"
-surname: "Rodriguez"
-company: "Jordick.es"
-title: ""
-bio: ""
-thumbnailUrl: jordick.jpg
-rockstar: true
-social:
-- {name: "google-plus", link: "https://plus.google.com/+JordiRodriguezSoler"}
+
