@@ -31,7 +31,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://goo.gl/7mIDvi"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -85,7 +85,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Lugar de las conferencias"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: "http://www.firareus.com/"
 eventStreetAddress: "firaReus, Technopark"
 eventAddressLocality: "Avda de Bellisens"
 eventAddressLocalityRegion: "Reus"
@@ -111,7 +111,7 @@ venueFeatures: ["firaReus, Centro de Ferias y Convenciones", "Localizado en la C
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest GDGTarragona"
-twitterFeed: "@GDGTarragona"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
