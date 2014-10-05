@@ -69,10 +69,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "20", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "12", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -111,8 +110,8 @@ venueFeatures: ["firaReus, Centro de Ferias y Convenciones", "Localizado en la C
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterHashTag: "devfest GDGTarragona"
+twitterFeed: "@GDGTarragona"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -122,7 +121,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: ""
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
@@ -135,9 +134,9 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "200"
   ribbon: "Free"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://devfestreus.eventbrite.es"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Entrada general", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Entrada general", "", ""]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
 # Footer
@@ -184,40 +183,24 @@ findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapMobileCenterCoordinates: "49.056728, 3.117289"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around firaReus"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.aena-aeropuertos.es/csee/Satellite/Aeropuerto-Reus/es/">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Pending'}
-directionDetailsWideCards: 
+ - {title: "Aeropuerto", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.aena-aeropuertos.es/csee/Satellite/Aeropuerto-Reus/es/">airport website</a>.'}
+ - {title: "Transporte púbico", information: 'Google Transit is available in Reus. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Reus Transport.'}
+directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
    -
-    title: "Hotels"
+    title: "Información"
     links:
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "Hotel Adagio"}
-   - 
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/110881000795710392242", text: "Hotel Adagio"}
+     - {link: "https://www.gdgtarragona.net", text: "GDG Tarragona"}
+
+
 
 # Hackathon
 hackathonTitle: "Hackathon"

@@ -29,8 +29,8 @@
 -
     id: 1
     name: "Jordi"
-    surname: "GDG Rodriguez"
-    title: "Organizer"
+    surname: "Rodriguez"
+    title: "GDG Organizer"
     thumbnailUrl: jordick.jpg
     team: true
     ribbon:
@@ -46,7 +46,7 @@
     name: "Anna"
     surname: "Lopez Grau"
     title: "GDG and WTM Organizer"
-    thumbnailUrl: vanessaGalcera.jpg
+    thumbnailUrl: annaLopez.jpg
     team: true
     ribbon:
     - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
