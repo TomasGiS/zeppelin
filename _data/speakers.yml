@@ -2,7 +2,7 @@
     id: 1
     name: "Jordi"
     surname: "Rodriguez"
-    company: "Jordick.es"
+    company: "Dinamitzador digital"
     title: "Android Wear"
     bio: ""
     thumbnailUrl: jordick.jpg
@@ -14,9 +14,9 @@
     id: 2
     name: "Albert"
     surname: "Abelló"
-    company: "Illustrum"
-    title: "Monetización de Apps"
-    bio: ""
+    company: "Ilustrum"
+    title: "Building the money machine"
+    bio: "Game designer i emprenedor. Creador del joc de cartes coleccionables i trivial ilustrum."
     thumbnailUrl: albertAbello.jpg
     rockstar: true
     social:
@@ -26,13 +26,87 @@
     id: 3
     name: "Jordi"
     surname: "Duch"
-    company: ""
+    company: "URV"
     title: "Gamificación"
     bio: ""
     thumbnailUrl: jordiDuch.png
     rockstar: true
     social:
     - {name: "google-plus", link: "https://plus.google.com/101787050467842633901/"}
+
+-
+    id: 0
+    name: "TomasGiS"
+    surname: ""
+    company: "Sm4rt Cities"
+    title: "Android TV"
+    bio: ""
+    thumbnailUrl: TomasGiS.jpg
+    rockstar: true
+
+    social:
+    - {name: "google-plus", link: "https://google.com/+TomasGiS"}
+    - {name: "twitter", link: "https://twitter.com/TomasGiS"}
+    - {name: "github", link: "https://github.com/TomasGiS"}
+    - {name: "site", link: "http://www.tomasgis.cat/"}
+-
+    id: 4
+    name: "Joan"
+    surname: "Llimiñana"
+    company: "GDG Lleida"
+    title: "Organizer"
+    bio: ""
+    thumbnailUrl: joan.jpg
+    rockstar: true
+    social:
+    - {name: "google-plus", link: "https://plus.google.com/+JoanLlimiñanaSabaté/"}
+-
+    id: 5
+    name: "Polina"
+    surname: ""
+    company: ""
+    title: ""
+    bio: ""
+    thumbnailUrl: unknown_girl.png
+    rockstar: true
+    social:
+    - {name: "google-plus", link: "https://plus.google.com//"}
+
+-
+    id: 6
+    name: "Rubén"
+    surname: "Serrano"
+    company: "GDG Barcelona"
+    title: "Organizer"
+    bio: ""
+    thumbnailUrl: unkown_boy.png
+    rockstar: true
+    social:
+    - {name: "google-plus", link: "https://plus.google.com//"}
+-
+    id: 7
+    name: "Alex"
+    surname: "Cabrera"
+    company: ""
+    title: ""
+    bio: ""
+    thumbnailUrl: unkown_boy.png
+    rockstar: true
+    social:
+    - {name: "google-plus", link: "https://plus.google.com//"}
+-
+    id: 8
+    name: "Vanessa"
+    surname: "Galcerà"
+    company: "Sm4rt Cities"
+    title: ""
+    bio: ""
+    thumbnailUrl: vanessaGalcera.jpg
+    rockstar: true
+    social:
+    - {name: "google-plus", link: "https://google.com/+VanessaGalcera"}
+    - {name: "twitter", link: "https://twitter.com/vanessagare"}
+    - {name: "site", link: "http://www.vgalcera.wordpress.com/"}
 -
     id: 9
     name: "Unknown"

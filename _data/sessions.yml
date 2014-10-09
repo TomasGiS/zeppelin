@@ -36,18 +36,74 @@
   complexity: "Beginner"
 -
   id: 002
-  title: "Gamification"
-  description: ""
+  title: "Building the money machine"
+  description: "Que vol dir que un joc funciona? Explorarem els jocs més rentables del mercat i les seves técniques de monetització. Intentarem descobrir la pócima del éxit en els jocs móvils actuals així com quina es la tendéncia futura del mercat."
   subtype: presentation
-  speakers: [3]
+  speakers: [2]
   language: cat
   complexity: "Intermediate"
+-
+    id: 003
+    title: "Gamification"
+    description: ""
+    subtype: presentation
+    speakers: [3]
+    language: cat
+    complexity: "Intermediate"
+-
+    id: 004
+    title: "Android TV"
+    description: ""
+    subtype: presentation
+    speakers: [0]
+    language: cat
+    complexity: "Beginner"
+-
+    id: 005
+    title: "Android Wear Design Sprint"
+    description: "Diseñar para Android Wear no significa copiar una aplicación de smartphone en una pantalla mas pequeña. En el Design Sprint se enseñan los nuevos paradigmas, filosofía i principios de diseño para Android Wear de forma practica y colaborativa."
+    subtype: presentation
+    speakers: [4]
+    language: cat
+    complexity: "Beginner"
+-
+    id: 006
+    title: "Material Design"
+    description: ""
+    subtype: presentation
+    speakers: [5]
+    language: cat
+    complexity: "Beginner"
+-
+    id: 007
+    title: "Adroid"
+    description: ""
+    subtype: presentation
+    speakers: [6]
+    language: cat
+    complexity: "Intermediate"
+-
+    id: 008
+    title: "Women Techmakers"
+    description: ""
+    subtype: presentation
+    speakers: [8]
+    language: cat
+    complexity: "Intermediate"
+-
+    id: 009
+    title: "Videojocs"
+    description: ""
+    subtype: presentation
+    speakers: [7]
+    language: cat
+    complexity: "Intermediate"
 -
   id: 600
   title: "Presentacion de proyectos Hackathon"
   description: ""
   subtype: Hackathon
-  speakers: [0]
+  speakers: [11]
   language: cat
   complexity: "Hackathon"
 -
@@ -55,7 +111,7 @@
     title: "Entrega de premios"
     description: ""
     subtype: Hackathon
-    speakers: [0]
+    speakers: [11]
     language: cat
     complexity: "Hackathon"
 -
@@ -63,6 +119,6 @@
     title: "Networking"
     description: ""
     subtype: Networking
-    speakers: [0]
+    speakers: [9]
     language: cat
     complexity: "Networking"
