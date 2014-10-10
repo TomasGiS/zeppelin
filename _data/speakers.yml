@@ -87,13 +87,14 @@
     id: 7
     name: "Alex"
     surname: "Cabrera"
-    company: ""
+    company: "U-play"
     title: ""
-    bio: ""
+    bio: "Es desarrollador en U-Play Online donde participa en la creación de juegos web y móviles desde hace más de 4 años. Como buen fan de Android, tiene publicadas aplicaciones y juegos a título personal. Apasionado de los videojuegos en casi todas sus versiones y plataformas, aunque se decanta por los juegos de PC."
     thumbnailUrl: unkown_boy.png
     rockstar: true
     social:
-    - {name: "google-plus", link: "https://plus.google.com//"}
+    - {name: "google-plus", link: "https://plus.google.com/+AlexCabreraGil/"}
+    - {name: "twitter", link: "https://twitter.com/alexcabrera_pc"}
 -
     id: 8
     name: "Vanessa"

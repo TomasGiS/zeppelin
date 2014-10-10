@@ -76,7 +76,7 @@
     complexity: "Beginner"
 -
     id: 007
-    title: "Evolución Android. Del framework a la supervivencia del más fuerte"
+    title: "Evolución Android: Del framework a la supervivencia del más fuerte"
     description: "El software, como las especies, tiene que evolucionar para no extinguirse. Desarrollar para Android puede ser muy rápido una vez conoces el framework, pero a la larga, los mismos componentes que te permiten ir rápido al principio, pueden suponer el peor obstáculo para hacer crecer una aplicación. En esta charla veremos algunos de estos componentes, cuáles son sus ventajas, cuáles son sus problemas más adelante, y algunas estrategias que podemos seguir para evitar que nuestro proyecto muera."
     subtype: presentation
     speakers: [6]
