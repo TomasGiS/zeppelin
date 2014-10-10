@@ -63,23 +63,23 @@
 -
     id: 5
     name: "Polina"
-    surname: ""
-    company: ""
+    surname: "Flegontovna"
+    company: "Rebbooth"
     title: ""
     bio: ""
-    thumbnailUrl: unknown_girl.png
+    thumbnailUrl: polina.jpg
     rockstar: true
     social:
-    - {name: "google-plus", link: "https://plus.google.com//"}
+    - {name: "google-plus", link: "https://plus.google.com/+PolinaFlegontovna/"}
 
 -
     id: 6
     name: "Rubén"
     surname: "Serrano"
-    company: "GDG Barcelona"
-    title: "Organizer"
+    company: "Redbooth"
+    title: "Lead Android Developer en Redbooth"
     bio: ""
-    thumbnailUrl: unkown_boy.png
+    thumbnailUrl: ruben.jpg
     rockstar: true
     social:
     - {name: "google-plus", link: "https://plus.google.com//"}
