@@ -9,7 +9,7 @@
   elements: 
     - {name: "Reus Tansport", description: "Google", link: "https://www.reustransport.com", imageUrl: "reustransport.png", width: "120px"}
     - {name: "Remotte", description: "Remotte", link: "http://www.remotte.com", imageUrl: "remotte.svg", width: "120px"}
-    - {name: "Tinet", description: "Tinet", link: "http://www.tinet.cat/", imageUrl: "none.png"}
+    - {name: "Tinet", description: "Tinet", link: "http://www.tinet.cat/", imageUrl: "tinet.png"}
 
 
 - 
