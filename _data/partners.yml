@@ -1,5 +1,5 @@
 - 
-  group: "General sponsor"
+  group: "Premium sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "Sm4rt Cities", description: "Sm4rt Cities", link: "http://www.smart4cities.net", imageUrl: "smart4cities.png"}
@@ -10,9 +10,12 @@
     - {name: "Reus Tansport", description: "Google", link: "https://www.reustransport.com", imageUrl: "reustransport.png", width: "120px"}
     - {name: "Remotte", description: "Remotte", link: "http://www.remotte.com", imageUrl: "remotte.svg", width: "120px"}
 
+
 - 
-  group: "Information partners"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "Sm4rt Cities", description: "Sm4rt Cities", link: "http://www.smart4cities.net", imageUrl: "smart4cities.png"}
-    - {name: "Redessa", description: "Redessa", link: "http://www.redessa.cat", imageUrl: "redessa.jpg"}
+  group: "Sponsors"
+  elements:
+    - {name: "2Xips", description: "2Xips", link: "http://www.2xips.cat", imageUrl: "none.png"}
+    - {name: "Tinet", description: "Tinet", link: "http://www.2xips.cat", imageUrl: "none.png"}
+    - {name: "Visca La Bona Vida", description: "Visca La Bona Vida", link: "http://www.viscalabonavida.cat", imageUrl: "none.png"}
+    - {name: "Jordick.es", description: "Jordick.es", link: "http://www.jordick.es/new/", imageUrl: "none.png"}
+    - {name: "Dos Punts", description: "Dos Punts", link: "http://www.dospunts.cat/", imageUrl: "none.png"}
