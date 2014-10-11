@@ -138,7 +138,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   ticketContentList: ["Entrada general", "", ""]
   validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validThrough: "2014-10-24T23:59"
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/110881000795710392242", icon: "google-plus"}
