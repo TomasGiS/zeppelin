@@ -105,7 +105,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "firaReus"
-venueFeatures: ["firaReus, Centro de Ferias y Convenciones", "Localizado en la Ciudad de Reus en el área Tecnopark"]
+venueFeatures: ["firaReus, Centro de Ferias y Convenciones", "Localizado en la Ciudad de Reus en el área Tecnoparc"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -228,7 +228,7 @@ prizes:
 hackathonLocationBlockTitle: "Location"
 hackathonLocationName: "Foyeur"
 hackathonLocationLink: "http://www.firaReus.cat"
-hackathonStreetAddress: "Avga. de Bellisens, 40"
+hackathonStreetAddress: "Avda. de Bellisens, 40"
 hackathonAddressLocality: "Reus"
 hackathonAddressLocalityRegion: "Tarragona"
 hackathonPostalCode: "43204"
