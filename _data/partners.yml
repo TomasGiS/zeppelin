@@ -16,7 +16,6 @@
   group: "Sponsors"
   elements:
     - {name: "2Xips", description: "2Xips", link: "http://www.2xips.cat", imageUrl: "none.png"}
-    - {name: "Tinet", description: "Tinet", link: "http://www.2xips.cat", imageUrl: "none.png"}
     - {name: "ViscaLaBonaVida", description: "Visca La Bona Vida", link: "http://www.viscalabonavida.cat", imageUrl: "none.png"}
     - {name: "Jordick.es", description: "Jordick.es", link: "http://www.jordick.es/new/", imageUrl: "none.png"}
-    - {name: "Dos Punts", description: "Dos Punts", link: "http://www.dospunts.cat/", imageUrl: "none.png"}
+    - {name: "Dos Punts", description: "Dos Punts", link: "http://www.dospunts.cat/", imageUrl: "dospunts.png"}
