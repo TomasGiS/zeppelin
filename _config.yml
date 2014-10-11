@@ -42,7 +42,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistics/", text: "Como llegar"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/fISuGq", text: "Become a speaker"}
