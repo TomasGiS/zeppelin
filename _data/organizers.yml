@@ -7,3 +7,9 @@
   elements: 
     - {name: "firaReus", description: "firaReus", link: "http://www.firareus.com", imageUrl: "firareus.png", width: "125px"}
     - {name: "TarracoDroid", description: "TarracoDroid", link: "http://www.tarracodroid.com", imageUrl: "tarracodroid.png"}
+
+-
+    group: "GDGs collaborators"
+    elements:
+    - {name: "GDG Lleida", description: "GDG Lleida", link: "http://www.gdglleida.com/", imageUrl: "gdg-lleida-logo.png"}
+    - {name: "GDG Barcelona", description: "GDG Barcelona", link: "http://gdgbarcelona.blogspot.com.es/", imageUrl: "gdg-bcn-logo.png"}
