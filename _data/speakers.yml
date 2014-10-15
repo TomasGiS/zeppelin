@@ -27,19 +27,19 @@
     name: "Jordi"
     surname: "Duch"
     company: "URV"
-    title: "Gamificación"
-    bio: ""
-    thumbnailUrl: jordiDuch.png
+    title: ""
+    bio: "Sóc enginyer en Informatica per la URV i doctor en Física per la Universitat de Barcelona. Actualment sóc professor del Departament d'Enginyeria Informatica i Matematiques de la URV, consultor a la UOC en temes de jocs i gamificació. També soc co-fundador de l'empresa chimu solutions dedicada a big data analytics en el mon dels esports."
+    thumbnailUrl: duch.png
     rockstar: true
     social:
     - {name: "google-plus", link: "https://plus.google.com/101787050467842633901/"}
 
 -
     id: 0
-    name: "TomasGiS"
-    surname: ""
+    name: ""
+    surname: "TomasGiS"
     company: "Sm4rt Cities"
-    title: "Android TV"
+    title: ""
     bio: ""
     thumbnailUrl: TomasGiS.jpg
     rockstar: true
@@ -89,8 +89,8 @@
     surname: "Cabrera"
     company: "U-play"
     title: ""
-    bio: "Es desarrollador en U-Play Online donde participa en la creación de juegos web y móviles desde hace más de 4 años. Como buen fan de Android, tiene publicadas aplicaciones y juegos a título personal. Apasionado de los videojuegos en casi todas sus versiones y plataformas, aunque se decanta por los juegos de PC."
-    thumbnailUrl: unkown_boy.png
+    bio: "Vaig començar a picar tecles per a poder fer els meus propis jocs, cosa que em va dur a treballar a U-Play Online on m'encarrego del departament de desenvolupament. M'agrada ficar tota la meva passió als jocs que publiquem com si fossin per a mi mateix. Molt fan de tot el que fa 'llumetes', especialment dels dispositius Android."
+    thumbnailUrl: alex.jpg
     rockstar: true
     social:
     - {name: "google-plus", link: "https://plus.google.com/+AlexCabreraGil/"}
@@ -108,3 +108,26 @@
     - {name: "google-plus", link: "https://google.com/+VanessaGalcera"}
     - {name: "twitter", link: "https://twitter.com/vanessagare"}
     - {name: "site", link: "http://www.vgalcera.wordpress.com/"}
+
+-
+    id: 11
+    name: "Cristina"
+    surname: "Fernandez"
+    company: "GDG Lleida"
+    title: "Organizer"
+    bio: ""
+    thumbnailUrl: unknown_girl.png
+    rockstar: true
+    social:
+    - {name: "google-plus", link: "https://google.com/115851459432041211023"}
+-
+    id: 10
+    name: "Andreu"
+    surname: "Ibañez"
+    company: "GDG Lleida"
+    title: "Organizer"
+    bio: "Andreu es Project Manager en Ponent 2002, un pyme tecnológica localizada en Lleida. Con 30 años de experiencia en tecnología, siempre ha estado involucrado en este sector IT y disfruta innovando constantemente. Actualmente se dedica la creación de nuevas tecnologías para áreas tan dispares como la Arqueología, clústers de visualización, láseres y drones. Es especialista en el ecosistema de Google, donde es Glass Explorer con la startup MundoGlass, mentor del Google Summer of Code con los proyectos Liquid Galaxy y CC Extractor, tiene montado una laboratorio único en el mundo para hacer proyectos con las diversas tecnologías de mapas de Google, el Liquid Galaxy LAB, y es además fundador y organizador del Google Developers Group GDG Lleida."
+    thumbnailUrl: andreu.png
+    rockstar: true
+    social:
+    - {name: "google-plus", link: "https://google.com/+AndreuIbáñez"}

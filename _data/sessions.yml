@@ -44,8 +44,8 @@
   complexity: "Intermediate"
 -
     id: 003
-    title: "Gamification"
-    description: ""
+    title: "The Age of Gamification"
+    description: "Parlarem de que es la gamificació, els mites i llegendes que s'han generat al voltant d'aquest terme tant de moda, i veurem casos reals on ha funcionat."
     subtype: presentation
     speakers: [3]
     language: cat
@@ -56,7 +56,7 @@
     description: ""
     subtype: presentation
     speakers: [0]
-    language: cat
+    language: es
     complexity: "Beginner"
 -
     id: 005
@@ -87,13 +87,13 @@
     title: "Women Techmakers"
     description: ""
     subtype: presentation
-    speakers: [8]
+    speakers: [8, 11]
     language: cat
     complexity: "Intermediate"
 -
     id: 009
-    title: "Videojocs"
-    description: ""
+    title: "Jocs per a mòbils, de la idea al producte"
+    description: "En aquesta xerrada parlarem de com es genera una idea per a un joc de mòbil, i que hem de fer per a convertir-la en una realitat. Maduració de la idea, fil conductor, fidelització, progrés, xarxes socials, monetització,  llançament, anàlisi, eines de desenvolupament, consells... Tot el que el temps ens permeti!"
     subtype: presentation
     speakers: [7]
     language: cat
@@ -103,7 +103,7 @@
   title: "Presentacion de proyectos Hackathon"
   description: ""
   subtype: Hackathon
-  speakers: [11]
+  speakers: []
   language: cat
   complexity: "Hackathon"
 -
@@ -111,14 +111,14 @@
     title: "Entrega de premios"
     description: ""
     subtype: Hackathon
-    speakers: [11]
+    speakers: []
     language: cat
     complexity: "Hackathon"
 -
     id: 602
-    title: "Networking"
+    title: "Networking & surprise with Andreu"
     description: ""
     subtype: Networking
-    speakers: [9]
+    speakers: [10]
     language: cat
     complexity: "Networking"
