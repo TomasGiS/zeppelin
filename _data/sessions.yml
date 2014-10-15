@@ -117,8 +117,8 @@
 -
     id: 602
     title: "Networking & surprise with Andreu"
-    description: ""
-    subtype: Networking
+    description: "Google Summer of Code, Proyecto de becas de verano para universitarios de Google. Andreu nos hará una breve presentación sobre las becas de Google desde la misma central de Google en Mountain View en California via hangout."
+    subtype: presentation
     speakers: [10]
     language: cat
-    complexity: "Networking"
+    complexity: "Beginner"
