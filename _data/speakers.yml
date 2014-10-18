@@ -29,7 +29,7 @@
     company: "URV"
     title: ""
     bio: "Sóc enginyer en Informatica per la URV i doctor en Física per la Universitat de Barcelona. Actualment sóc professor del Departament d'Enginyeria Informatica i Matematiques de la URV, consultor a la UOC en temes de jocs i gamificació. També soc co-fundador de l'empresa chimu solutions dedicada a big data analytics en el mon dels esports."
-    thumbnailUrl: duch.png
+    thumbnailUrl: jordiDuch.png
     rockstar: true
     social:
     - {name: "google-plus", link: "https://plus.google.com/101787050467842633901/"}
@@ -82,7 +82,7 @@
     thumbnailUrl: ruben.jpg
     rockstar: true
     social:
-    - {name: "google-plus", link: "https://plus.google.com/115084566409190171071/"}
+    - {name: "google-plus", link: "https://plus.google.com/+RubénSerrano"}
 -
     id: 7
     name: "Alex"
@@ -116,7 +116,7 @@
     company: "GDG Lleida"
     title: "Organizer"
     bio: ""
-    thumbnailUrl: unknown_girl.png
+    thumbnailUrl: cristina.png
     rockstar: true
     social:
     - {name: "google-plus", link: "https://google.com/115851459432041211023"}
