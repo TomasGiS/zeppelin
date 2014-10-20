@@ -8,8 +8,8 @@ El Hackathon GDG DevFest Reus 2014 arranca.
 
 #### Modalidades – Qué modalidades hay en el Hackathon?
 
-* Reus Transport wereables
-* Remotte Glass SDK
+* Reus Transport [wearables] (http://www.android.com/wear/) 
+* Remotte Glass [SDK] (https://github.com/Remotte)
 
 
 #### Cuanto tiempo tenemos para realitzar el Hackathon?
@@ -21,5 +21,5 @@ El Hackathon empieza hoy dia 20 de Octubre en modalidad no presencial y finaliza
 #### Quieres consultar las bases del Hackathon? 
 Las bases y toda la información la tienes disponibles [aquí](https://drive.google.com/file/d/0Bxzv_Aj5vSidRjBzNWRFRjcwZkk/view?usp=sharing).
 
-#### Any questions? 
+#### Alguna pregunta más? 
 Email organizers at [conferencias@gdgtarragona.net](mailto:conferencias@gdgtarragona.net)
