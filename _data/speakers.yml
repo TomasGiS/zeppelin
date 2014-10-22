@@ -66,11 +66,14 @@
     surname: "Flegontovna"
     company: "Redbooth"
     title: ""
-    bio: ""
+    bio: "Diseñadora de interacción en Redbooth
+    Diseñadora grafica y web, autodidacta, fotografa y amante de manualidades.
+    La interfaz es un lenguaje común entre el sistema y el usuario."
     thumbnailUrl: polina.jpg
     rockstar: true
     social:
     - {name: "google-plus", link: "https://plus.google.com/+PolinaFlegontovna/"}
+    - {name: "twitter", link: "https://twitter.com/flegontovna"}
 
 -
     id: 6
