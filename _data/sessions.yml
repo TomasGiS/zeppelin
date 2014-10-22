@@ -69,8 +69,7 @@
 -
     id: 006
     title: "Material Design"
-description: "La evolución de la interfaz que propone Google (Material Design) es un paso importante en acercarnos a una metáfora nueva pero fácil de entender en nuestras pantallas.
-Esta charla es una introducción a los principios que forman la base del Material y como se pueden aplicar a travez de ejemplos. "
+    description: "La evolución de la interfaz que propone Google (Material Design) es un paso importante en acercarnos a una metáfora nueva pero fácil de entender en nuestras pantallas. Esta charla es una introducción a los principios que forman la base del Material y como se pueden aplicar a travez de ejemplos. "
     subtype: presentation
     speakers: [5]
     language: es
