@@ -211,7 +211,6 @@ aboutHackathonTitle: "Meet our themes"
 hackathonRows:
  - {title: "Remotte",image: "hackathon-1.png"}
  - {title: "Android Wear",image: "hackathon-0.png"}
- - {title: "Pendiente",image: "hackathon-0.png"}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
@@ -220,9 +219,8 @@ judgesTitle: "Jueces"
 # Hackathon Prizes Block
 prizesTitle: "Premios"
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Remotte"}
- - {title: "1nd Place", image: "prize-1.png", info: "Premio Reus Transport"}
- - {title: "3nd Place", image: "prize-3.png", info: "Pendiente"}
+ - {title: "1nd Place Remotte ", image: "prize-2.png", info: "Remotte"}
+ - {title: "1nd Place Reus Transport", image: "prize-1.png", info: "Premio Reus Transport"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"

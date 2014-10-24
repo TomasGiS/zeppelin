@@ -9,3 +9,10 @@
     - {name: "google-plus", link: "https://plus.google.com/+LeoBlázquez"}
     - {name: "twitter", link: "https://twitter.com/leoblazquez"}
     - {name: "Linked-in", link: "http://t.co/PjNYQNWFXO"}
+-
+    id: 20
+    name: "Francesc"
+    surname: "Just"
+    company: "Reus Transport"
+    title: "Cap de Transport"
+    thumbnailUrl: just.jpg
